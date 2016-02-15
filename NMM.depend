@@ -1,0 +1,48 @@
+# depslib dependency file v1.0
+1446993869 source:/home/sergio/Dropbox/ufmg/mestrado/disciplinas/ia/trabalhos/nmm/code-linux/src/evaluator.cpp
+	"evaluator.h"
+
+1446567625 /home/sergio/Dropbox/ufmg/mestrado/disciplinas/ia/trabalhos/nmm/code-linux/src/evaluator.h
+	"board.h"
+
+1446989888 /home/sergio/Dropbox/ufmg/mestrado/disciplinas/ia/trabalhos/nmm/code-linux/src/board.h
+	<memory>
+	<iostream>
+	<string>
+	"spot.h"
+
+1446568361 /home/sergio/Dropbox/ufmg/mestrado/disciplinas/ia/trabalhos/nmm/code-linux/src/spot.h
+	<string>
+	<iostream>
+
+1447003994 source:/home/sergio/Dropbox/ufmg/mestrado/disciplinas/ia/trabalhos/nmm/code-linux/src/main.cpp
+	<iostream>
+	<stdio.h>
+	<chrono>
+	"nmmagent.h"
+	"board.h"
+	<cstring>
+
+1446993136 /home/sergio/Dropbox/ufmg/mestrado/disciplinas/ia/trabalhos/nmm/code-linux/src/nmmagent.h
+	<fstream>
+	<climits>
+	<vector>
+	"board.h"
+	"state.h"
+	"evaluator.h"
+
+1446984762 /home/sergio/Dropbox/ufmg/mestrado/disciplinas/ia/trabalhos/nmm/code-linux/src/state.h
+	<stdio.h>
+	<memory>
+	"board.h"
+
+1447004033 source:/home/sergio/Dropbox/ufmg/mestrado/disciplinas/ia/trabalhos/nmm/code-linux/src/nmmagent.cpp
+	"nmmagent.h"
+	<memory>
+	<chrono>
+	<omp.h>
+
+1446927966 source:/home/sergio/Dropbox/ufmg/mestrado/disciplinas/ia/trabalhos/nmm/code-linux/src/board.cpp
+	"board.h"
+	"evaluator.h"
+

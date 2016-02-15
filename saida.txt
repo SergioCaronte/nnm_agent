@@ -1,0 +1,63 @@
+
+state to run, max level is 5... placed 3 1 minimax run completely. placed 5 3 elapsed time: 172.097ms
+state to run, max level is 5... placed 4 3 minimax run completely. placed 4 3 elapsed time: 296.821ms
+state to run, max level is 5... placed 4 2 minimax run completely.  mill removed 3 0 placed 6 3 elapsed time: 275.62ms
+mill play elapsed time: 0.130397ms
+state to run, max level is 5... placed 0 0 minimax run completely. placed 0 0 elapsed time: 78.2916ms
+state to run, max level is 5... placed 6 0 minimax run completely. placed 4 2 elapsed time: 247.93ms
+state to run, max level is 5... placed 6 0 minimax run completely. placed 6 0 elapsed time: 390.57ms
+state to run, max level is 5... placed 2 2 minimax run completely. placed 5 5 elapsed time: 407.595ms
+state to run, max level is 5... placed 2 2 minimax run completely.  mill removed 4 4 placed 3 0 elapsed time: 166.643ms
+state to run, max level is 7... moved 6 0 3 0 minimax run completely. moved 6 0 3 0 elapsed time: 723.116ms
+state to run, max level is 5... placed 1 3 minimax run completely. placed 3 5 elapsed time: 226.169ms
+state to run, max level is 5... placed 3 4 minimax run completely. placed 3 4 elapsed time: 412.05ms
+state to run, max level is 5... placed 1 3 minimax run completely.  mill removed 4 3 placed 3 6 elapsed time: 1079.41ms
+mill play elapsed time: 0.144907ms
+state to run, max level is 5... placed 0 6 minimax run completely. placed 0 6 elapsed time: 295.177ms
+state to run, max level is 5... placed 0 3 minimax run completely. placed 1 5 elapsed time: 209.632ms
+state to run, max level is 5... placed 0 3 minimax run completely. placed 0 3 elapsed time: 133.757ms
+state to run, max level is 5...  mill removed 2 3 placed 0 0 minimax run completely. placed 1 3 elapsed time: 290.3ms
+state to run, max level is 5...  mill removed 2 3 placed 0 0 minimax run completely.  mill removed 2 3 placed 0 0 elapsed time: 211.375ms
+mill play elapsed time: 0.107462ms
+state to run, max level is 5...  mill removed 3 1 placed 1 1 minimax run completely.  mill removed 6 6 placed 1 1 elapsed time: 310.867ms
+mill play elapsed time: 0.191659ms
+state to run, max level is 7... minimax run completely. elapsed time: 1274.33ms
+state to run, max level is 7... 
+state to run, max level is 7... minimax run completely. elapsed time: 4980.9ms
+mill play elapsed time: 10.3099ms
+state to run, max level is 7... minimax run completely. elapsed time: 1684.51ms
+state to run, max level is 7... minimax run completely. elapsed time: 2097.09ms
+mill play elapsed time: 0.15641ms
+state to run, max level is 7... minimax run completely. elapsed time: 1590.43ms
+state to run, max level is 7... minimax run completely. elapsed time: 1831.01ms
+mill play elapsed time: 0.178833ms
+state to run, max level is 5... minimax run completely. elapsed time: 24.5474ms
+mill play elapsed time: 0.147404ms
+state to run, max level is 5... minimax run completely. elapsed time: 252.371ms
+state to run, max level is 5... minimax run completely. elapsed time: 306.824ms
+state to run, max level is 5... minimax run completely. elapsed time: 639.237ms
+mill play elapsed time: 0.148509ms
+state to run, max level is 5... minimax run completely. elapsed time: 242.258ms
+state to run, max level is 5... minimax run completely. elapsed time: 429.828ms
+state to run, max level is 5... minimax run completely. elapsed time: 300.56ms
+state to run, max level is 5... minimax run completely. elapsed time: 123.692ms
+state to run, max level is 5... minimax run completely. elapsed time: 361.426ms
+state to run, max level is 5... minimax run completely. elapsed time: 221.956ms
+mill play elapsed time: 0.115188ms
+state to run, max level is 7... minimax run completely. elapsed time: 728.503ms
+state to run, max level is 7... minimax run completely. elapsed time: 2176.41ms
+mill play elapsed time: 0.136873ms
+state to run, max level is 7... minimax run completely. elapsed time: 1248.51ms
+state to run, max level is 7... minimax run completely. elapsed time: 1209.56ms
+state to run, max level is 7... minimax run completely. elapsed time: 1890.87ms
+state to run, max level is 7... minimax run completely. elapsed time: 1577.5ms
+state to run, max level is 7... minimax run completely. elapsed time: 1687.44ms
+mill play elapsed time: 0.19932ms
+state to run, max level is 7... minimax run completely. elapsed time: 3112.72ms
+mill play elapsed time: 0.091867ms
+state to run, max level is 7... minimax run completely. elapsed time: 4587.6ms
+state to run, max level is 7... minimax run completely. elapsed time: 2444.63ms
+state to run, max level is 7... minimax run completely. elapsed time: 2552.8ms
+mill play elapsed time: 0.118236ms
+state to run, max level is 5... minimax run completely. elapsed time: 41.1256ms
+mill play elapsed time: 0.281294ms

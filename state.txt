@@ -1,0 +1,11 @@
+white mill
+white mill 5 5
+black movement 0 6 4 2
+white movement 2 4 3 4
+o--W--o
+|o-W-B|
+||WWo||
+oWo*WWW
+||Boo||
+|o-o-o|
+o--W--B
